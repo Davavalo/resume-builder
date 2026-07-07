@@ -1,0 +1,73 @@
+{
+  "personalInformation": {
+    "name": "Victor Davalos",
+    "phone": "918.935.9791",
+    "email": "vdavalos55@gmail.com",
+    "website": "victordavalos.com"
+  },
+  "professionalSummary": "Senior Graphic Designer with 5+ years of experience delivering print, digital, and presentation design for nonprofit and corporate clients. Translates established creative direction into production-ready campaigns, executive presentations, and marketing materials across print, digital, and environmental formats. Manages multiple concurrent projects from concept handoff through final production with a focus on accuracy, consistency, and execution quality.",
+  "skills": [
+    "Presentation Design (PowerPoint)",
+    "Print & Digital Design",
+    "Visual Storytelling & Layout",
+    "Typography & Brand Systems",
+    "Infographics & Data Visualization",
+    "Print Production & Large-Format Graphics",
+    "WordPress Development",
+    "Adobe Creative Suite (InDesign, Illustrator, Photoshop)",
+    "HTML / CSS / JavaScript"
+  ],
+  "experience": [
+    {
+      "title": "Art Director",
+      "company": "TPC Studios",
+      "dates": {
+        "start": "February 2023",
+        "end": "July 2026"
+      },
+      "responsibilities": [
+        "Produced print, digital, and presentation materials for multi-piece fundraising campaigns, including invitations, event collateral, signage, presentations, and promotional assets.",
+        "Translated established creative direction into visual storytelling across campaigns, presentations, and marketing materials.",
+        "Developed PowerPoint presentations and presentation templates for client meetings and fundraising initiatives.",
+        "Prepared press-ready files and production specifications for offset, digital, and large-format printing.",
+        "Coordinated with vendors to ensure accurate production, materials, and delivery schedules.",
+        "Managed multiple concurrent projects from concept handoff through final production while balancing deadlines, revisions, and production requirements."
+      ]
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "SGA Design Group",
+      "dates": {
+        "start": "September 2021",
+        "end": "February 2023"
+      },
+      "responsibilities": [
+        "Designed marketing collateral, proposals, presentations, and large-format graphics for corporate clients.",
+        "Produced print and digital assets that aligned with established brand standards.",
+        "Maintained WordPress websites and created email marketing campaigns.",
+        "Collaborated with marketing and business development teams to deliver projects on schedule.",
+        "Prepared production-ready artwork for print and digital distribution."
+      ]
+    },
+    {
+      "title": "Digital Design Intern",
+      "company": "Byers Creative",
+      "dates": {
+        "start": "May 2021",
+        "end": "September 2021"
+      },
+      "responsibilities": [
+        "Translated concepts into wireframes, mockups, and prototypes for client websites using Adobe XD.",
+        "Designed user interface components including navigation systems, menus, and interactive elements.",
+        "Assisted in the development of RFP materials and presentation assets to meet client deadlines.",
+        "Supported ongoing website updates and content management for both clients and the agency."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Fine Arts in Graphic Design",
+      "institution": "Oklahoma State University"
+    }
+  ]
+}
